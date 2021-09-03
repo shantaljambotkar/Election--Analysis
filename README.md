@@ -32,13 +32,13 @@ Provide a breakdown of the number of votes and the percentage of the total votes
 
 * Breakdown of votes per candidate 
 
-![Breakdown per candidate](Breakdown_per_candidate.png)
+![Breakdown per candidate](https://github.com/shantaljambotkar/Election--Analysis/blob/main/Breakdown%20per%20candidate.PNG)
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 * Winning Candidate
 
-![Winning Candidate](Winning_Candidate.png)
+![Winning Candidate](./Winning%20Candidate.PNG)
 
 * Final Results:
 
