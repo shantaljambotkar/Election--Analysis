@@ -38,7 +38,7 @@ Which candidate won the election, what was their vote count, and what was their 
 
 * Winning Candidate
 
-![Winning Candidate](Winning_Candidate.png)
+![Winning Candidate](Winning_candidate.png)
 
 * Final Results:
 
