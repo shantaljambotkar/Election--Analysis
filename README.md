@@ -4,6 +4,8 @@
 
 The purpose of the election audit is to identify how many candidates participated in the elecetion commission, what their voting counts were and how many votes did each candidate get.  The analysis also identified which candidate won in in the elections and which county has the largest number of votes.
 
+https://github.com/shantaljambotkar/Election--Analysis
+
 ## Election-Audit Results: 
 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
@@ -12,27 +14,25 @@ How many votes were cast in this congressional election?
 
 * Total Number of votes that were casted in the congressional election
 
-![Total Number of votes](Total_Number_of_votes.png)
-
-![Total Number of Votes](Total_Number_of_votes.png)
+![Total Number of votes](./Total%20Number%20of%20votes.PNG)
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 * Number of votes and percentage of votes:
 
-![Votes and Percentage of votes per county](County_Votes.png)
+![Votes and Percentage of votes per county](./County%20Votes.PNG)
 
 Which county had the largest number of votes?
 
 * Denver had the largest number of votes
 
-![County with Largest number of votes](County_with_Largest_number_of_votes.png)
+![County with Largest number of votes](./County%20with%20Largest%20number%20of%20votes.PNG)
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
 * Breakdown of votes per candidate 
 
-![Breakdown per candidate](https://github.com/shantaljambotkar/Election--Analysis/blob/main/Breakdown%20per%20candidate.PNG)
+![Breakdown per candidate](./Breakdown%20per%20candidate.PNG)
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
@@ -42,7 +42,7 @@ Which candidate won the election, what was their vote count, and what was their 
 
 * Final Results:
 
-![Results](Results.png)
+![Results](./Results.PNG)
 
 
 ## Election-Audit Summary: 
