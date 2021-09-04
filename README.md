@@ -1,10 +1,9 @@
 # Election_Analysis
 
+
 ## Overview of Election Audit: 
 
 The purpose of the election audit is to identify how many candidates participated in the elecetion commission, what their voting counts were and how many votes did each candidate get.  The analysis also identified which candidate won in in the elections and which county has the largest number of votes.
-
-https://github.com/shantaljambotkar/Election--Analysis
 
 ## Election-Audit Results: 
 
@@ -38,11 +37,7 @@ Which candidate won the election, what was their vote count, and what was their 
 
 * Winning Candidate
 
-<<<<<<< HEAD
 ![Winning Candidate](./Winning%20Candidate.PNG)
-=======
-![Winning Candidate](Winning_candidate.png)
->>>>>>> b7117767ec80e50057243d4bc8c4a0f45e3498b8
 
 * Final Results:
 
